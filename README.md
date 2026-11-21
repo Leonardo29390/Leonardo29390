@@ -26,35 +26,45 @@ Soy estudiante de Ingeniería de Software en la Universidad Manuela Beltrán, or
 </details>02 / Engineering focus
 <div align="center">
   <img src="assets/data-pipeline.svg" width="100%" alt="My data engineering focus: ingest, transform, store and serve data, with quality and monitoring throughout" />
-</div>Area	Focus
-Data integration	APIs, data sources, extraction and loading
-Data modeling	SQL, relational databases and transactional schemas
-Processing	Python, Pandas, cleaning and transformation
-Cloud	Google Cloud, Cloud Run and containerized applications
-Analytics	Power BI, dashboards and reporting
-
-
+</div>Data integration
+APIs, data sources, extraction and loading
+Data modeling
+SQL, relational databases and transactional schemas
+Processing
+Python, Pandas, cleaning and transformation
+Cloud
+Google Cloud, Cloud Run and containerized applications
+Analytics
+Power BI, dashboards and reporting
 03 / Tech stack
-Category	Technologies
-Languages	<img src="https://skillicons.dev/icons?i=py,java,js,ts,cs,cpp,bash&theme=dark" alt="Python, Java, JavaScript, TypeScript, C#, C++, Bash" height="38" /> <img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge" alt="SQL" height="26" />
-Databases	<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" height="38" /> <img src="https://img.shields.io/badge/SQL_Server-334155?style=for-the-badge" alt="Microsoft SQL Server" height="26" />
-Cloud & DevOps	<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions&theme=dark" alt="Google Cloud, Docker, Git, GitHub, GitHub Actions" height="38" />
-Software development	<img src="https://skillicons.dev/icons?i=flask,spring,dotnet,react,nodejs,express,postman&theme=dark" alt="Flask, Spring, .NET, React, Node.js, Express, Postman" height="38" />
-Data & analytics	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
-
+Languages
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,cs,cpp,bash&theme=dark" alt="Python, Java, JavaScript, TypeScript, C#, C++, Bash" height="38" /> <img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge" alt="SQL" height="26" />
+Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" height="38" /> <img src="https://img.shields.io/badge/SQL_Server-334155?style=for-the-badge" alt="Microsoft SQL Server" height="26" />
+Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions&theme=dark" alt="Google Cloud, Docker, Git, GitHub, GitHub Actions" height="38" />Software development
+<img src="https://skillicons.dev/icons?i=flask,spring,dotnet,react,nodejs,express,postman&theme=dark" alt="Flask, Spring, .NET, React, Node.js, Express, Postman" height="38" />Data & analytics
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
 
 Currently exploring:
 
 <img src="https://img.shields.io/badge/Apache_Airflow-0B1220?style=flat-square&logo=apacheairflow&logoColor=38BDF8" alt="Apache Airflow" /> <img src="https://img.shields.io/badge/Apache_Spark-0B1220?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Apache Spark" /> <img src="https://img.shields.io/badge/Apache_Kafka-0B1220?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/ETL%2FELT-0B1220?style=flat-square" alt="ETL/ELT" />
 04 / Featured projects
-Project	What it does	Stack / status
-Cloud Accounting & Digital Twin	Academic degree project exploring cloud accounting data integration and digital representations of accounting processes.	Google Cloud · In development
-ERP FullBike	Enterprise application for motorcycle parts, customers and sales management.	C# · ASP.NET MVC · Entity Framework
-DomiFlow	Academic delivery platform with transactional order workflows and role-based interfaces.	Java · Spring Boot · PostgreSQL · Supabase · React
-Personal Finance Manager	Group project for financial transactions, analytics dashboards and data exports.	Python · Flask · SQLAlchemy · Pandas · React · Docker
-Data Engineering Portfolio	Bilingual portfolio featuring technical skills, academic case studies and contact information. Live website.	React · TypeScript · Tailwind CSS · GitHub Pages
-
-
+Cloud Accounting & Digital Twin
+Academic degree project exploring cloud accounting data integration and digital representations of accounting processes.
+Google Cloud · In development
+ERP FullBike
+Enterprise application for motorcycle parts, customers and sales management.
+C# · ASP.NET MVC · Entity Framework
+DomiFlow
+Academic delivery platform with transactional order workflows and role-based interfaces.
+Java · Spring Boot · PostgreSQL · Supabase · React
+Personal Finance Manager
+Group project for financial transactions, analytics dashboards and data exports.
+Python · Flask · SQLAlchemy · Pandas · React · Docker
+Data Engineering Portfolio
+Bilingual portfolio featuring technical skills, academic case studies and contact information. Live website.
+React · TypeScript · Tailwind CSS · GitHub Pages
 <div align="center">
   <a href="https://leonardo29390.github.io/portfolio-data-engineer/"><img src="assets/portfolio.svg" width="100%" alt="Explore my bilingual portfolio: projects, technologies, architecture and contact information" /></a>
 </div>05 / GitHub activity

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="164" viewBox="0 0 1000 164" role="img" aria-labelledby="title"><title id="title">Data engineering learning focus: ingest, transform, store and serve</title>
+<defs><linearGradient id="line"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<rect width="1000" height="164" rx="12" fill="#0B1424"/><rect x=".5" y=".5" width="999" height="163" rx="11.5" fill="none" stroke="#29435D"/>
+<g font-family="'DejaVu Sans',Arial,sans-serif">
+<text x="24" y="24" fill="#94A3B8" font-size="11" letter-spacing="1.7" font-family="monospace">DATA ENGINEERING / LEARNING FOCUS</text>
+<path d="M242 77H263M487 77H508M732 77H753" stroke="url(#line)" stroke-width="2" stroke-dasharray="4 3"/>
+<g fill="#142338" stroke="#28445F"><rect x="23" y="39" width="219" height="77" rx="9"/><rect x="268" y="39" width="219" height="77" rx="9"/><rect x="513" y="39" width="219" height="77" rx="9"/><rect x="758" y="39" width="219" height="77" rx="9"/></g>
+<g font-weight="bold" font-size="17" fill="#E2E8F0"><text x="38" y="65">01 · Ingest</text><text x="283" y="65">02 · Transform</text><text x="528" y="65">03 · Store</text><text x="773" y="65">04 · Serve</text></g>
+<g font-size="12" fill="#A5B8CF"><text x="38" y="85">APIs · Files · Sources</text><text x="283" y="85">Python · SQL · ETL/ELT</text><text x="528" y="85">Databases · Cloud</text><text x="773" y="85">Analytics · Dashboards</text></g>
+<path d="M38 101H227M283 101H472M528 101H717M773 101H962" stroke="url(#line)" stroke-width="2"/>
+<rect x="23" y="129" width="954" height="22" rx="6" fill="#102536"/>
+<text x="500" y="144" fill="#67E8F9" font-size="11" font-family="monospace" text-anchor="middle" letter-spacing="1.1">CROSS-CUTTING: DATA QUALITY · AUTOMATION · DOCUMENTATION · RELIABILITY</text>
+</g></svg>
